@@ -11,3 +11,8 @@ expand_image:
 steps:
 - when clicking on the prev/next button, the circle will continue to previous/next step
 <img src="./images/step.jpg" width="30%" height="30%">
+
+rotating_navigation:
+- when clicking the navigation bar, the page will rotate to show the menu bar
+<img src="./images/rotate1.jpg" width="30%" height="30%">
+<img src="./images/rotate2.jpg" width="30%" height="30%">
